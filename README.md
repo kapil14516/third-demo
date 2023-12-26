@@ -7,3 +7,5 @@ adding data first time
 adding data through vs code
 <br>
 updating readme.md file from github
+<br>
+adding data locally
